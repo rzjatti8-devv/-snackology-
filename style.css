@@ -1,1 +1,174 @@
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
 
+body {
+  background-image: url("images/bckgrnd.png");
+  background-size: cover;
+}
+
+header {
+  background-color: white;
+  height: 140px;
+   border: 2px rgb(20, 78, 2) dashed;
+  border-radius: 10px;
+  color: rgb(20, 78, 2);
+  margin-bottom: 3px;
+}
+
+#head {
+  display: flex;
+}
+
+h4 {
+  position: absolute;
+  top: 73px;
+  left: 120px;
+}
+
+.item {
+  background-color: white;
+  display: flex;
+  margin-left: 20px;
+  margin-right: 20px;
+  border-radius: 10px;
+  padding: 20px;
+  color: rgb(20, 78, 2);
+  margin-bottom: 9px;
+}
+
+.snack {
+  margin-left: 40px;
+}
+
+.img {
+  display:flex;
+  justify-content: space-between;
+}
+
+#buy1 {
+  margin-left: 360px;
+  margin-top: 155px;
+}
+
+#price1{
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  width: 150px;
+  height: 25px;
+  padding: 5px;
+  background-color: rgb(20, 78, 2);
+  border-radius: 15px;
+}
+
+#shop1{
+  margin-left: 18px;
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+a{
+  color:rgb(20, 78, 2);
+}
+
+#buy2 {
+  margin-left: 360px;
+  margin-top: 155px;
+}
+
+#price2 {
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  width: 150px;
+  height: 25px;
+  padding: 5px;
+  background-color: rgba(255, 217, 0, 0.653);
+  border-radius: 15px;
+}
+
+#shop2 {
+  margin-left: 18px;
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+#buy3 {
+  margin-left: 348px;
+  margin-top: 155px;
+}
+
+#price3 {
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  width: 150px;
+  height: 25px;
+  padding: 5px;
+  background-color: rgb(255, 0, 0);
+  border-radius: 15px;
+}
+
+#shop3 {
+  margin-left: 18px;
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+#buy4 {
+  margin-left: 336px;
+  margin-top: 155px;
+}
+
+#price4 {
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  width: 150px;
+  height: 25px;
+  padding: 5px;
+  background-color: rgba(5, 5, 222, 0.627);
+  border-radius: 15px;
+}
+
+#shop4 {
+  margin-left: 18px;
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+#buy5 {
+  margin-left: 328px;
+  margin-top: 155px;
+}
+
+#price5 {
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  width: 150px;
+  height: 25px;
+  padding: 5px;
+  background-color:green;
+  border-radius: 15px;
+}
+
+#shop5 {
+  margin-left: 18px;
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+footer {
+  background-color: white;
+  color: rgb(20, 78, 2);
+  border: 2px rgb(20, 78, 2) dashed;
+  border-radius: 10px;
+  text-align: center;
+}
+
+#space {
+  display: flex;
+  justify-content: space-evenly;
+}
